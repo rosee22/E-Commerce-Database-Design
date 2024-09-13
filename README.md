@@ -14,4 +14,5 @@ A robust e-commerce database design tailored for an electronics and accessories 
 # References
 
 intro databases.docx
+
 advanced database.docx
