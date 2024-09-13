@@ -1,3 +1,4 @@
+## Advanced database
 A robust e-commerce database design tailored for an electronics and accessories platform
 - **Entity-Relationship Diagram (ERD)**
 - **Indexing & Denormalization** 
