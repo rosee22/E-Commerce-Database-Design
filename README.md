@@ -13,8 +13,8 @@ A robust e-commerce database design tailored for an electronics and accessories 
   
 - ## indroduction to database
 
-- ## inserting the data
-- ## statictical calculations
+- inserting the data
+- statictical calculations
 
 - REFERANCE
 
