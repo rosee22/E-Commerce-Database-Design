@@ -1,22 +1,17 @@
-## Advanced database
+## Advanced Database design
+
 A robust e-commerce database design tailored for an electronics and accessories platform
+
 - **Entity-Relationship Diagram (ERD)**
 - **Indexing & Denormalization** 
-- **Table Creation**
+- **Tables Creation**
 - **Dataset Insertion**
-- **Views**
-- **Stored Procedures**
-- **Triggers**
+- **Views Creation**
+- **Stored Procedures Creation**
+- **Triggers Creation**
+- **Satistical calculations**
   
-- REFERANCE
-  
-- advanced database.docx
-  
-- ## indroduction to database
+# References
 
-- inserting the data
-- statictical calculations
-
-- REFERANCE
-
-- indro databases.docx
+intro databases.docx
+advanced database.docx
