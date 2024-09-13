@@ -6,13 +6,10 @@ A robust e-commerce database design tailored for an electronics and accessories 
 - **Table Creation**
 - 
 - **Dataset Insertion**
-- 
 -  **Views**
--  
-- **Stored Procedures**
-- 
+- *Stored Procedures**
 - **Triggers**
-- 
+  
 - REFERANCE
 - 
 - advanced database.docx
